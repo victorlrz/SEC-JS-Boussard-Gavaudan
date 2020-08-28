@@ -1,0 +1,18 @@
+{
+  "name": "SEC-JS-Boussard-Gavaudan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^16.4.0",
+    "live-server": "^1.2.1",
+    "node-fetch": "^2.6.0",
+    "util": "^0.12.3"
+  }
+}
